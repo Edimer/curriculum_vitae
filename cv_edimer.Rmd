@@ -29,11 +29,13 @@ Habilidades {#skills}
 
 - Desarrollo de productos de datos con R y Python (dashboard, Apps, reportes automáticos).
 
-- Construcción de modelos de machine learning e intergración en aplicativos web (Shiny Apps). 
+- Construcción de modelos de machine learning e integración en aplicativos web (Shiny Apps). 
 
 - Desarrollo de productos de *Inteligencia Artificial* (ChatBots, Agentes de IA).
 
-- Operacionalización (MLOps) de modelos de machine learning en la nube.
+- Operacionalización (MLOps) de modelos de machine learning en la nube (Databricks).
+
+- Sistemas agénticos y automatización con IA.
 
 - Experiencia en diseño y análisis estadístico de experimentos.
 
@@ -43,12 +45,23 @@ Main
 Edimer David Jaramillo {#title}
 --------------------------------------------------------------------------------
 
-### Zootecnista, Especialista en Estadística.
+### Científico de Datos. Zootecnista, Especialista en Estadística.
 
 <div style="text-align: justify">
-Soy Zootecnista y especialista en Estadística, con sólida formación en la aplicación de métodos estadísticos y técnicas de inteligencia artificial para la resolución de problemas en diversas áreas del conocimiento. Tengo experiencia en docencia universitaria, formulación de proyectos de investigación y consultoría estadística. Soy hábil en la extracción de conocimiento a partir de datos mediante la implementación de técnicas de aprendizaje automático e inteligencia artificial, utilizando lenguajes de programación como R y Python. Soy participante activo en competencias de Ciencia de Datos a través de plataformas como [Kaggle](https://www.kaggle.com/), [Zindi (África)](https://zindi.africa/) y [DataSource (Latinoamérica)](https://www.datasource.ai/). 
+Soy Zootecnista y especialista en Estadística, con sólida formación en la aplicación de métodos estadísticos y técnicas de inteligencia artificial para la resolución de problemas en diversas áreas del conocimiento. Tengo experiencia en docencia universitaria, formulación de proyectos de investigación y consultoría estadística. Soy hábil en la extracción de conocimiento a partir de datos mediante la implementación de técnicas de aprendizaje automático e inteligencia artificial, utilizando lenguajes de programación como R y Python. He participado activamente en competencias de Ciencia de Datos a través de plataformas como [Kaggle](https://www.kaggle.com/), [Zindi (África)](https://zindi.africa/) y [DataSource (Latinoamérica)](https://www.datasource.ai/); en 2024 obtuve el premio *Best Model (Statistics)* en la *International Cherry Blossom Prediction Competition* (George Mason University). Actualmente trabajo en el desarrollo de sistemas agénticos y en la automatización con inteligencia artificial. 
 </div>
 
+
+Reconocimientos {data-icon=trophy}
+--------------------------------------------------------------------------------
+
+### [Award for Best Model (Statistics)](https://competition.statistics.gmu.edu/winners-2024/)
+
+International Cherry Blossom Prediction Competition, George Mason University
+
+*Online*
+
+2024
 
 Educación {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -75,6 +88,22 @@ Tesis: Aplicación de Modelos Lineales Generalizados en comportamiento de crecim
 
 Educación Complementaria {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### Databricks
+
+[Databricks Certified Machine Learning Associate](https://credentials.databricks.com/e79ec8cc-19a4-4b3e-8288-5689c4b8a781)
+
+*Online*
+
+2024
+
+### DataCamp
+
+Introduction to Databricks
+
+*Online*
+
+2024
 
 ### DataCamp
 
@@ -219,17 +248,15 @@ Experiencia profesional {data-icon=suitcase}
 
 ### Científico de Datos
 
-Datalytics
+[Lovelytics](https://lovelytics.com/)
 
 Medellín, Colombia
 
 2021 - Actual
 
-::: concise
-- Entrenamiento de algoritmos de machine learning con R y Python. 
-- Construcción de reportes con R y Python.
-- Apoyo en labores de despliegue de soluciones analíticas basadas en datos.
-:::
+- Análisis de datos y modelado predictivo con R y Python.
+- Despliegue de modelos de machine learning en la nube (Databricks).
+- Desarrollo de soluciones con inteligencia artificial y sistemas agénticos.
 
 ### Analista de Datos
 
@@ -275,30 +302,13 @@ Medellín, Colombia
 Experiencia en docencia {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Diseño Experimental.
+### Estadística, Diseño Experimental y R en Experimentación Animal.
 
-Docente del curso impartido en la Facultad de Ciencias Agrarias, en la Universidad de Antioquia.
-
-Medellín, Colombia
-
-2022 - 2024
-
-
-### Estadística.
-
-Docente del curso impartido en la Facultad de Ciencias Agrarias, en la Universidad de Antioquia.
+Docente de cátedra en la Facultad de Ciencias Agrarias, Universidad de Antioquia.
 
 Medellín, Colombia
 
-2021 - 2024
-
-### RProject en Experimentación Animal.
-
-Docente del curso impartido en la Facultad de Ciencias Agrarias, en la Universidad de Antioquia.
-
-Medellín, Colombia
-
-2020 - 2022
+2020 - 2025
 
 ### Bioestadística 1.
 
@@ -310,7 +320,7 @@ Medellín, Colombia
 
 ### Introducción al análisis de datos con R - Nivel 1.
 
-Instructor de curso de extensión en  en la Universidad Nacional.
+Instructor de curso de extensión en la Universidad Nacional.
 
 Medellín, Colombia
 
@@ -318,7 +328,7 @@ Medellín, Colombia
 
 ### Introducción al análisis de datos con R - Nivel 2.
 
-Instructor de curso de extensión en  en la Universidad Nacional.
+Instructor de curso de extensión en la Universidad Nacional.
 
 Medellín, Colombia
 
@@ -349,7 +359,7 @@ Madrid, España
 
 ### Description of the influence of time of birth, year of birth, farm, race, and their interactions over growth in Lucerne animals breed and its crosses.
 
-Ponencia Oral
+Ponencia oral
 
 Medellín, Colombia
 
@@ -387,6 +397,155 @@ Belo Horizonte, Brasil
 2015 
 
 **Edimer David Jaramillo**, Luis Gabriel González Herrera. 
+
+Charlas y conferencias {data-icon=comments}
+--------------------------------------------------------------------------------
+
+Listado completo con presentaciones en [edimer.netlify.app/es/event](https://edimer.netlify.app/es/event/).
+
+### Del chat al sistema agéntico: OpenRouter y el desarrollo guiado por especificaciones
+
+Universidad Nacional de Colombia - Sede Medellín
+
+Medellín, Colombia
+
+2026
+
+### La medida y la mirada: análisis de datos en ciencias agrarias
+
+3er Congreso Internacional de Producción Animal de Colombia (COPACO 2026)
+
+Medellín, Colombia
+
+2026
+
+### De usuarios a constructores: agentes, IA y el oficio de pensar
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2026
+
+### Productos de datos: del desarrollo local al paso a producción en la nube
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2025
+
+### Sistemas agénticos con inteligencia artificial: transformando el desarrollo de software y su aplicación en la agricultura
+
+AGROSAVIA
+
+Medellín, Colombia
+
+2025
+
+### Sistemas agénticos con inteligencia artificial (IA): usos potenciales en la agricultura
+
+AGROSAVIA
+
+Medellín, Colombia
+
+2025
+
+### Sistemas agénticos con inteligencia artificial (IA): tecnologías emergentes y disruptivas
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2025
+
+### Análisis de datos y tecnologías emergentes: oportunidades en la era de la IA
+
+Universidad Nacional de Colombia - Sede Medellín
+
+Medellín, Colombia
+
+2025
+
+### Big data e inteligencia artificial aplicadas a nutrición animal
+
+Seminario de nutrición AMEVEA
+
+Bogotá, Colombia
+
+2024
+
+### Investigación reproducible: una aproximación usando lenguajes de programación
+
+SENA
+
+Colombia
+
+2024
+
+### Inteligencia artificial: aplicaciones y desafíos
+
+Universidad de Antioquia
+
+Medellín, Colombia
+
+2024
+
+### Datos e inteligencia artificial (IA) para la toma de decisiones
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2024
+
+### Inteligencia artificial: avances y desafíos
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2024
+
+### Ciencia de datos con R: usos en el sector agropecuario (edición 2021)
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2021
+
+### Ciencia de datos con R: usos en el sector agropecuario (ejemplo en cultivo de tejidos vegetales)
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2020
+
+### Diseño y análisis estadístico de experimentos en cannabis
+
+Universidad Nacional de Colombia - Sede Palmira
+
+Palmira, Colombia
+
+2020
+
+### Aplicaciones web con R: Shiny
+
+Universidad Nacional de Colombia - Sede Medellín
+
+Medellín, Colombia
+
+2020
+
+### Ciencia de datos con R: usos en el sector agropecuario
+
+Universidad Nacional de Colombia - Sede Medellín
+
+Medellín, Colombia
+
+2020
 
 Artículos Científicos - Libros
 --------------------------------------------------------------------------------
